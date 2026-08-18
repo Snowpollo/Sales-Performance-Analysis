@@ -142,6 +142,8 @@ Based on the analysis, the following actions could be considered:
 
 The Excel dashboard brings together the major findings into a visual summary of sales performance.
 
+![Sales Performance Dashboard](dashboard.png)
+
 It provides an overview of:
 
 - Revenue
